@@ -10,7 +10,7 @@ This is a dark theme with low contrast, yet it still reads clearly.  Very easy o
 
 
 # Install
-```omarchy-theme-install https://github.com/guilhermetk/omarchy-all-hallows-eve-theme```
+```omarchy-theme-install https://github.com/Rnedlose/omarchy-vague-theme```
 
 
 # Acknowledgments
